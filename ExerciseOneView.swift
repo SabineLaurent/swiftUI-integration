@@ -7,21 +7,21 @@
 
 import SwiftUI
 
-struct ExerciceOneView: View {
+struct ExerciseOneView: View {
     var body: some View {
         VStack {
-            
             Spacer()
+            
             
             HStack {
                 Text("Swift Language")
-                    .font(.title)
                     .fontWeight(.bold)
                 
                 Image(systemName: "swift")
                     .foregroundColor(Color.orange)
-                    .font(.title)
             }
+            .font(.largeTitle)
+            
             
             HStack {
                 Text("Version: 6.0.1")
@@ -35,6 +35,7 @@ struct ExerciceOneView: View {
             .fontWeight(.bold)
             .padding(16.0)
             
+            
             Spacer()
         }
     }
@@ -44,5 +45,5 @@ struct ExerciceOneView: View {
 
 
 #Preview {
-    ExerciceOneView()
+    ExerciseOneView()
 }
