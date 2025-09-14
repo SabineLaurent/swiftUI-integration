@@ -1,5 +1,5 @@
 //
-//  ExerciceTwo.swift
+//  ExerciseTwoView.swift
 //  MyFirstProject
 //
 //  Created by Sabine LAURENT on 12/09/2025.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ExerciceTwoView: View {
+struct ExerciseTwoView: View {
     var body: some View {
         VStack {
             Spacer()
@@ -71,5 +71,5 @@ struct ExerciceTwoView: View {
 
 
 #Preview {
-    ExerciceTwoView()
+    ExerciseTwoView()
 }

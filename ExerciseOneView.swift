@@ -1,5 +1,5 @@
 //
-//  ExerciceOne.swift
+//  ExerciseOneView.swift
 //  MyFirstProject
 //
 //  Created by Sabine LAURENT on 12/09/2025.
