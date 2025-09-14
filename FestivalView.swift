@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ExerciseThreeView: View {
+struct FestivalView: View {
     var body: some View {
         ZStack{
             Image(.jamesOwenCNBiJrhwdMUnsplash)
@@ -28,5 +28,5 @@ struct ExerciseThreeView: View {
 
 
 #Preview {
-    ExerciseThreeView()
+    FestivalView()
 }
