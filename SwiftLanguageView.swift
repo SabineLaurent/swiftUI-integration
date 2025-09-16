@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ExerciseOneView: View {
+struct SwiftLanguageView: View {
     var body: some View {
         VStack {
             Spacer()
@@ -45,5 +45,5 @@ struct ExerciseOneView: View {
 
 
 #Preview {
-    ExerciseOneView()
+    SwiftLanguageView()
 }

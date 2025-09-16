@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ExerciseTwoView: View {
+struct AirPodCardView: View {
     var body: some View {
         VStack {
             Spacer()
@@ -71,5 +71,5 @@ struct ExerciseTwoView: View {
 
 
 #Preview {
-    ExerciseTwoView()
+    AirPodCardView()
 }
