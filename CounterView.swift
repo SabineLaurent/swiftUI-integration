@@ -21,6 +21,8 @@ struct CounterView: View {
             
             VStack {
                 
+                Spacer()
+                
                 Text("Compteur: \(count)")
                     .font(.largeTitle)
                     .fontWeight(.black)
@@ -57,6 +59,8 @@ struct CounterView: View {
                             .shadow(radius: 16, x: 4, y: 16)
                     }
                 }
+                
+                Spacer()
             }
         }
     }
